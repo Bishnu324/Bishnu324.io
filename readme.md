@@ -1,9 +1,9 @@
 ## Hi there, I'm Bishnu Datta Pant 👋
-<img src="assets/profile.jpg" alt="Profile Photo" width="150" align="left"> <!-- Optional: Add photo if uploaded -->
+<img src="assets/profile.jpg" alt="Profile Photo" width="150" align="centre"> <!-- Optional: Add photo if uploaded -->
 
 <div align="center">
   <!-- Customized typing text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Geospatial+Specialist;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS+%26+Visualization+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Geospatial+Analysia;Transforming+Data+into+Actionable+Insights;Agricultural+And;GIS+%26+Expert" alt="Typing SVG" />
 </div>
 
 <!-- Updated links with personal information and Download CV -->
@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-I'm an experienced Data Analyst and Geospatial Specialist with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
+I'm an experienced Data Analyst and Geospatial Enthusiast with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
 
 When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
 
