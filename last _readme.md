@@ -1,8 +1,8 @@
 ## Hi there, I'm Bishnu Datta Pant 👋
-<img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/WhatsApp%20Image%202025-10-08%20at%2014.17.36_2087fb8d.jpg" alt="Profile Photo" width="150" align="center"> <!-- Circular profile image -->
+<img src="assets/profile.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" align="left"> <!-- Circular profile image -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Specialist;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS+%26+Visualization+Enthusiast" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+ Enthusiast;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS mapping+%26+Visualization+Enthusiast" alt="Typing SVG" /><br>
   <a href="https://linkedin.com/in/contactbishnupant"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:pantb813@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/Bishnu324/BishnuDattaPant_CV.pdf" download><img src="https://img.shields.io/badge/Download%20CV-PDF-orange?style=for-the-badge"></a>
@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-I'm an experienced Data Analyst and Geospatial Specialist with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
+I'm an experienced Data Analyst and Geospatial Enthusiast with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
 
 When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
 
