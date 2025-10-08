@@ -1,5 +1,5 @@
 ## Hi there, I'm Bishnu Datta Pant 👋
-<img src="assets/profile.jpg" alt="Profile Photo" width="150" align="center"> <!-- Optional: Add photo if uploaded -->
+<img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/US-Elec.png" alt="Profile Photo" width="150" align="center"> <!-- Optional: Add photo if uploaded -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Specialist;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS+%26+Visualization+Enthusiast" alt="Typing SVG" /><br>
