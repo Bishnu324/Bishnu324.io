@@ -2,7 +2,7 @@
 <img src="assets/profile.jpg" alt="Profile Photo" width="150" align="left"> <!-- Optional: Add photo if uploaded -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Enthusiast;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS+%26+Visualization+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Enthusiast;Transforming+Data+into+Actionable+Insights;Agricultural++Expert;GIS+%26+Visualization+Expert" alt="Typing SVG" />
 </div>
 
 <!-- Updated links with personal information and Download CV -->
