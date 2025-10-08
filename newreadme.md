@@ -1,6 +1,6 @@
 <!-- Responsive profile section with fallback -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center; margin-bottom: 20px; text-align: center;">
-  <img src="assets/profile.jpg" alt="Profile Photo" style="border-radius: 50%; border: 4px solid #3498db; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 150px; height: auto; margin: 10px;" />
+  <img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/profile%20.jpg" alt="Profile Photo" style="border-radius: 50%; border: 4px solid #3498db; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 150px; height: auto; margin: 10px;" />
   <h1 style="font-size: 1.5em; font-weight: bold; color: #2c3e50; margin: 10px;">Bishnu Datta Pant 👋</h1>
   <!-- Fallback text if image fails: <p style="margin: 10px;">Profile image unavailable</p> -->
 </div>
