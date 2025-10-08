@@ -1,105 +1,62 @@
-<!-- Responsive profile section with fallback -->
-<div style="display: flex; align-items: center; flex-wrap: wrap; justify-content: center; margin-bottom: 20px; text-align: center;">
-  <img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/profile%20.jpg" alt="Profile Photo" style="border-radius: 50%; border: 4px solid #3498db; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 150px; height: auto; margin: 10px;" />
-  <h1 style="font-size: 1.5em; font-weight: bold; color: #2c3e50; margin: 10px;">Bishnu Datta Pant 👋</h1>
-  <!-- Fallback text if image fails: <p style="margin: 10px;">Profile image unavailable</p> -->
+## Hi there, I'm [Your Name] 👋
+
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 0 auto; max-width: 90%;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=1abc9c&center=true&vCenter=true&width=90vw&lines=Data+Analyst+%7C+Geospatial+Specialist;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS+%26+Visualization+Enthusiast" alt="Typing SVG" style="max-width: 100%;" /><br>
-  <a href="assets/BishnuDattaPant_CV.pdf" download><img src="https://img.shields.io/badge/Download%20CV-PDF-orange?style=for-the-badge&logo=adobe-acrobat" alt="Download CV" style="max-width: 120px;"></a>
-  <a href="https://linkedin.com/in/contactbishnupant"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="max-width: 120px;"></a>
-  <a href="mailto:pantb813@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2ECC71?style=for-the-badge&logo=gmail" alt="Email" style="max-width: 120px;"></a>
+<!-- 🔗 Update these links with your own social media and contact information -->
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
+## 🚀 About Me 
+I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-## 🚀 About Me
-<div style="background-color: #f5f6fa; padding: 15px; border-left: 4px solid #3498db; border-radius: 5px; max-width: 90%; margin: 0 auto;">
-  I'm an experienced Data Analyst and Geospatial Specialist with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects. When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
-</div>
+My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
----
+When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
 
-### [🏆 Check Out My Full Portfolio Website](https://Bishnu324.github.io/)
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+      
+## 🔭 What I'm Currently Working On 
 
----
+- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-## 🎓 Education
-- **Bachelor’s Degree in Agricultural Science**  
-  - Institute of Agriculture and Animal Science, Tribhuvan University, Nepal  
-  - 2019 - 2023
-- **Intermediate (High School)**  
-  - National Academy of Science and Technology, Dhangadhi, Nepal  
-  - 2016 - 2018
+## 🌱 Currently Learning 
 
----
+- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
+- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
-## 🛠️ Skills
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 90%; margin: 0 auto;">
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=flat-square&logo=microsoft-office" alt="Microsoft Office"> Microsoft Office (Excel, PowerPoint)
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    <img src="https://img.shields.io/badge/Canva-Intermediate-00C4B4?style=flat-square&logo=canva" alt="Canva"> Canva
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat-square&logo=powerbi" alt="Power BI"> Power BI
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python" alt="Python"> Python
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    <img src="https://img.shields.io/badge/QGIS-Intermediate-589636?style=flat-square" alt="QGIS"> QGIS
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    🗣️ Communication
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    📅 Organization
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    🤝 Teamwork
-  </div>
-  <div style="background-color: #ecf0f1; padding: 10px; border-radius: 5px; max-width: 100%;">
-    ⏰ Time Management
-  </div>
-</div>
+## 🛠️ Technical Skillset
 
----
+<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-## 👨‍💼 Experience
-- **Social Media Intern**  
-  - *Agricultural Technology Center, Lalitpur*  
-  - *March - July 2025*  
-  - Designed engaging posters and promotional videos that increased 1% in Facebook followers (42) and 5% in YouTube followers and LinkedIn  
-  - Managed and optimized ATC’s social media content  
-  - Coordinated and successfully organized an online workshop on GIS and Remote Sensing, attracting active participation
-- **IIDE’s Global Virtual Internship**  
-  - *June - June 2024*  
-  - Completed a 1-month internship under the Global Virtual Internship Program at IIDE and actively participated in training and tasks related to:  
-    - Prospecting  
-    - Google Workspace Management
+#### Data Analysis & Visualization
+<p>
+  <!-- 💡 Go to Shields.io to create your own badges -->
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+</p>
 
----
+#### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+</p>
 
-## 🎓 Certificates
-- **QGIS for land management**  
-  - Centre of Excellence in Land Administration and Management, Administrative Training Institute, Government of Karnataka  
-  - Sept - 2025
-- **Data Science using Python course**  
-  - Evolve IT-Hub, Lalitpur, Nepal  
-  - Feb - 2025
-- **Online course Power BI for Beginners**  
-  - Simplilearn  
-  - Oct - 2024
-
----
-
-## 📝 Publications
-- [Economic production and marketing of Walnut in Darchula District, Nepal](https://doi.org/10.1000/xyz123)
-- [Performance of Rice Landraces for Yield and Yield-Related Traits in Rainfed Conditions](https://doi.org/10.1000/abc456)
-- [Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security](https://doi.org/10.1000/def789)
-
----
-
+#### Business Intelligence & Analytics
+<p>
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
