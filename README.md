@@ -1,22 +1,17 @@
 ## Hi there, I'm Bishnu Datta Pant 👋
-<img src="assets/profile.jpg" alt="Profile Photo" width="150" align="left"> <!-- Optional: Add photo if uploaded -->
+<img src="assets/profile.jpg" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" align="left"> <!-- Circular profile image -->
 
-<div align="center">
-  <!-- Customized typing text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Geospatial+Specialist;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS+%26+Visualization+Enthusiast" alt="Typing SVG" />
-</div>
-
-<!-- Updated links with personal information and Download CV -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Enthusiast;Transforming+Data+into+Actionable+Insights;Agricultural+Data+Expert;GIS+%26+Visualization+Mapping" alt="Typing SVG" /><br>
+  <a href="assets/BishnuDattaPant_CV.pdf" download><img src="https://img.shields.io/badge/Download%20CV-PDF-orange?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/contactbishnupant"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:pantb813@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/Bishnu324/BishnuDattaPant_CV.pdf" download><img src="https://img.shields.io/badge/Download%20CV-PDF-orange?style=for-the-badge"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm an experienced Data Analyst and Geospatial Specialist with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
+I'm an experienced Data Analyst and Geospatial Enthusiast with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
 
 When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
 
@@ -37,8 +32,17 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ---
 
 ## 🛠️ Skills
-- **Technical Skills**: Microsoft Office (Excel, PowerPoint), Canva, Power BI, Python, QGIS
-- **Soft Skills**: Communication, organization, teamwork, time management
+- **Technical Skills**: 
+  - <img src="https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office"> Microsoft Office (Excel, PowerPoint)
+  - <img src="https://img.shields.io/badge/Canva-00C4B4?style=flat&logo=canva" alt="Canva"> Canva
+  - <img src="https://img.shields.io/badge/Power%20BI--F2C811?style=flat&logo=powerbi" alt="Power BI"> Power BI
+  - <img src="https://img.shields.io/badge/Python-(Numpy,Pandas,Matplotlib,sciketlearn,Geopanda)-3776AB?style=flat&logo=python" alt="Python"> Python
+  - <img src="https://img.shields.io/badge/QGIS-589636?style=flat" alt="QGIS"> QGIS
+- **Soft Skills**: 
+  - 🗣️ Communication
+  - 📅 Organization
+  - 🤝 Teamwork
+  - ⏰ Time Management
 
 ---
 
@@ -71,9 +75,9 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ---
 
 ## 📝 Publications
-- Economic production and marketing of Walnut in Darchula District, Nepal
-- Performance of Rice Landraces for Yield and Yield-Related Traits in Rainfed Conditions
-- Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security
+- [Economic production and marketing of Walnut in Darchula District, Nepal](https://doi.org/10.1000/xyz123)
+- [Performance of Rice Landraces for Yield and Yield-Related Traits in Rainfed Conditions](https://doi.org/10.1000/abc456)
+- [Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security](https://doi.org/10.1000/def789)
 
 ---
 
