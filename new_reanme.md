@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-I'm an experienced Data Analyst and Geospatial Specialist with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
+I'm an experienced data analyst and geospatial enthusiast with expertise in transforming complex datasets into actionable insights using Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
 
 When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
 
