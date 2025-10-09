@@ -10,15 +10,6 @@
 </div>
 
 </div>
-# 👋 Hello, I'm Bishnu Datta Pant
-
-<img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/profile%20.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Enthusiast;Transforming+Data+into+Actionable+Insights;Agricultural+Expert;GIS+%26+Visualization+Specialist" alt="Typing SVG" />
-</div>
-
-</div>
 
 <!-- Contact Links -->
 <p align="center">
@@ -26,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:pantb813@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://github.com/Bishnu324/BishnuDattaPant_CV.pdf" download>
     <img src="https://img.shields.io/badge/Download%20CV-PDF-orange?style=for-the-badge" alt="Download CV">
@@ -63,19 +54,17 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ## 🛠️ Technical Skills
 
 ### **Core Competencies**
-- **Data Analysis & Visualization**: Power BI, Python (Pandas, Matplotlib, Seaborn)
-- **Geospatial Analysis**: QGIS, Remote Sensing
-- **Productivity Tools**: Microsoft Office Suite (Advanced Excel, PowerPoint)
-- **Design**: Canva, Data Visualization Design
+- **Data Analysis & Visualization**: Power BI, Python 
+- **Geospatial Analysis**: QGIS, Python(geopandas),GEE
+- **Productivity Tools**: Microsoft Office Suite (Excel, PowerPoint), Canva
 
-### **Skill Levels**
+
+### **Skills**
 <div align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=for-the-badge&logo=microsoft-office)
 ![QGIS](https://img.shields.io/badge/QGIS-Intermediate-589632?style=for-the-badge&logo=qgis)
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python)
-![Canva](https://img.shields.io/badge/Canva-Intermediate-00C4CC?style=for-the-badge&logo=canva)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-217346?style=for-the-badge&logo=microsoft-office)
 
 </div>
 
@@ -96,7 +85,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ### **Global Virtual Internship**
 **IIDE** | *June 2024*
 
-- Completed intensive 1-month virtual internship program
+- Completed an intensive 1-month virtual internship program
 - Gained expertise in prospecting and Google Workspace Management
 - Participated in comprehensive training modules and practical tasks
 
