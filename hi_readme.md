@@ -3,7 +3,13 @@
   
 # 👋 Hello, I'm Bishnu Datta Pant
 
-<img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/Profile.jpg" alt="Profile Photo" width="150" style="border-radius: 50%; border: 3px solid #2E9EF7; padding: 5px; background: white;">
+<p align="center">
+  <img src="https://github.com/Bishnu324/Bishnu324/blob/main/assets/Profile.jpg" 
+       alt="Bishnu Datta Pant" 
+       width="160" 
+       style="border-radius: 50%; margin: 10px 20px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+</p>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Enthusiast;Transforming+Data+into+Actionable+Insights;Agricultural+Expert;GIS+%26+Visualization+Specialist" alt="Typing SVG" />
