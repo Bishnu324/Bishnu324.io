@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-I'm an experienced **Data Analyst** and **Geospatial Enthusiast** specializing in transforming complex datasets into actionable insights using **Python**, **Power BI**, and **GIS tools**. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
+I'm an experienced Data Analyst and Geospatial Enthusiast specializing in transforming complex datasets into actionable insights using Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
 
 When I'm not analyzing data, I enjoy exploring agritechnology and designing visualizations that bring data to life.
 
@@ -61,10 +61,14 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 
 ### **Skills**
 <div align="center">
-![QGIS](https://img.shields.io/badge/QGIS-Intermediate-589632?style=for-the-badge&logo=qgis)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-217346?style=for-the-badge&logo=microsoft-office)
+### **Skills**
+<p align="center">
+  <img src="https://img.shields.io/badge/QGIS-Intermediate-589632?style=for-the-badge&logo=qgis" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-217346?style=for-the-badge&logo=microsoft-office" alt="Microsoft Office(Excel and power point)" />
+</p>
+
 
 </div>
 
