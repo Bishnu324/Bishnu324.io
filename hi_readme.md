@@ -4,7 +4,7 @@
 # 👋 Hello, I'm Bishnu Datta Pant
 
 <p align="center">
-  <img src="https://github.com/Bishnu324/Bishnu324/blob/main/assets/Profile.jpg" 
+  <img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/Profile.jpg" 
        alt="Bishnu Datta Pant" 
        width="160" 
        style="border-radius: 50%; margin: 10px 20px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
