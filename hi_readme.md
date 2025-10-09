@@ -65,7 +65,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 - **Productivity Tools**: Microsoft Office Suite (Excel, PowerPoint), Canva
 
 
-### **Skills**
+**Skills**
 <div align="center">
 ### **Skills**
 <p align="center">
