@@ -1,16 +1,19 @@
 <!-- Header Section -->
-
 <div align="center">
   
 # 👋 Hello, I'm Bishnu Datta Pant
 
-<p align="center">
-  <img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/Profile.jpg" 
-       alt="Bishnu Datta Pant" 
-       width="160" 
-       style="border-radius: 50%; margin: 10px 20px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-</p>
-
+<div align="center" style="background: #0D1117; padding: 25px; border-radius: 20px; margin: 20px 0; border: 1px solid #30363d;">
+  <div style="position: relative; display: inline-block;">
+    <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(45deg, #2E9EF7, #1f6feb, #2E9EF7); border-radius: 50%; opacity: 0.3; filter: blur(12px);"></div>
+    <img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/Profile.jpg" 
+         alt="Bishnu Datta Pant" 
+         width="180"
+         style="border-radius: 50%; border: 4px solid #2E9EF7; box-shadow: 0 0 25px rgba(46, 158, 247, 0.3); margin: 10px; transition: all 0.3s ease; position: relative; z-index: 2;"
+         onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 0 35px rgba(46, 158, 247, 0.5)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 25px rgba(46, 158, 247, 0.3)';" />
+  </div>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Geospatial+Enthusiast;Transforming+Data+into+Actionable+Insights;Agricultural+Expert;GIS+%26+Visualization+Specialist" alt="Typing SVG" />
