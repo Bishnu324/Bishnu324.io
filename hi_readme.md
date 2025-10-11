@@ -1,4 +1,200 @@
 <!-- Header Section -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bishnu Datta Pant - Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        /* Circular Profile Styles */
+        .profile-container {
+            text-align: center;
+            margin: 30px 0;
+            padding: 20px 0;
+        }
+        
+        .profile-image-wrapper {
+            display: inline-block;
+            position: relative;
+            margin: 0 auto;
+        }
+        
+        .profile-image {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 5px solid #58a6ff;
+            box-shadow: 0 0 20px rgba(88, 166, 255, 0.3);
+            transition: all 0.3s ease;
+        }
+        
+        .profile-image:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 30px rgba(88, 166, 255, 0.5);
+        }
+        
+        .profile-glow {
+            position: absolute;
+            top: -10px;
+            left: -10px;
+            right: -10px;
+            bottom: -10px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #58a6ff, #1f6feb, #58a6ff);
+            z-index: -1;
+            opacity: 0.7;
+            filter: blur(15px);
+            animation: pulse 3s infinite alternate;
+        }
+        
+        @keyframes pulse {
+            0% {
+                opacity: 0.5;
+                transform: scale(0.95);
+            }
+            100% {
+                opacity: 0.8;
+                transform: scale(1.05);
+            }
+        }
+        
+        h1 {
+            color: #58a6ff;
+            margin: 20px 0 10px;
+            font-size: 2.5rem;
+        }
+        
+        .typing-container {
+            margin: 20px 0;
+            min-height: 80px;
+        }
+        
+        .contact-links {
+            margin: 25px 0;
+        }
+        
+        .badge {
+            display: inline-block;
+            margin: 5px 10px;
+            padding: 8px 16px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.2s ease;
+        }
+        
+        .badge:hover {
+            transform: translateY(-2px);
+        }
+        
+        .section {
+            margin: 40px 0;
+            padding: 20px;
+            background-color: #161b22;
+            border-radius: 10px;
+            border: 1px solid #30363d;
+        }
+        
+        h2 {
+            color: #58a6ff;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #30363d;
+        }
+        
+        th {
+            color: #58a6ff;
+        }
+        
+        .skills-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 15px 0;
+        }
+        
+        .skill-badge {
+            background-color: #1f6feb;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+        
+        .quote {
+            font-style: italic;
+            text-align: center;
+            margin: 30px 0;
+            padding: 20px;
+            border-left: 3px solid #58a6ff;
+            background-color: #161b22;
+            border-radius: 0 10px 10px 0;
+        }
+        
+        .portfolio-link {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 12px 24px;
+            background: linear-gradient(45deg, #1f6feb, #58a6ff);
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .portfolio-link:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(31, 111, 235, 0.4);
+        }
+        
+        hr {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, #58a6ff, transparent);
+            margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <div class="profile-container">
+        <div class="profile-image-wrapper">
+            <div class="profile-glow"></div>
+            <img src="https://github.com/Bishnu324/Bishnu324.io/blob/main/Profile.jpg?raw=true" 
+                 alt="Bishnu Datta Pant" 
+                 class="profile-image" />
+        </div>
 <div align="center">
   
 # 👋 Hello, I'm Bishnu Datta Pant
