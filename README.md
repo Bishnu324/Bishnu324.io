@@ -75,9 +75,15 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ---
 
 ## 📝 Publications
-- [Economic production and marketing of Walnut in Darchula District, Nepal](https://doi.org/10.1000/xyz123)
-- [Performance of Rice Landraces for Yield and Yield-Related Traits in Rainfed Conditions](https://doi.org/10.1000/abc456)
-- [Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security](https://doi.org/10.1000/def789)
+
+1. **Economic production and marketing of Walnut in Darchula District, Nepal**  
+   *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+
+2. **Performance of Rice Landraces for Yield and Yield-Related Traits in Rainfed Conditions**  
+   *[https://doi.org/10.1000/abc456](https://doi.org/10.1000/abc456)*
+
+3. **Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security**  
+   *[https://doi.org/10.1000/def789](https://doi.org/10.1000/def789)*
 
 ---
 
