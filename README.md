@@ -33,11 +33,12 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 
 ## 🛠️ Skills
 - **Technical Skills**: 
-  - <img src="https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office"> Microsoft Office (Excel, PowerPoint)
-  - <img src="https://img.shields.io/badge/Canva-00C4B4?style=flat&logo=canva" alt="Canva"> Canva
+  -  <img src="https://img.shields.io/badge/QGIS-589636?style=flat" alt="QGIS"> QGIS
+  -  <img src="https://img.shields.io/badge/Python-(Numpy,Pandas,Matplotlib,sciketlearn,Geopanda)-3776AB?style=flat&logo=python" alt="Python"> Python
   - <img src="https://img.shields.io/badge/Power%20BI--F2C811?style=flat&logo=powerbi" alt="Power BI"> Power BI
-  - <img src="https://img.shields.io/badge/Python-(Numpy,Pandas,Matplotlib,sciketlearn,Geopanda)-3776AB?style=flat&logo=python" alt="Python"> Python
-  - <img src="https://img.shields.io/badge/QGIS-589636?style=flat" alt="QGIS"> QGIS
+  - <img src="https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office"> Microsoft      Office (Excel, PowerPoint)
+  -  <img src="https://img.shields.io/badge/Canva-00C4B4?style=flat&logo=canva" alt="Canva"> Canva
+    
 - **Soft Skills**: 
   - 🗣️ Communication
   - 📅 Organization
@@ -63,12 +64,18 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 
 ## 🎓 Certificates
 - **QGIS for land management**
+  *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+
   - Centre of Excellence in Land Administration and Management, Administrative Training Institute, Government of Karnataka
   - Sept - 2025
 - **Data Science using Python course**
+  *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+
   - Evolve IT-Hub, Lalitpur, Nepal
   - Feb - 2025
 - **Online course Power BI for Beginners**
+  *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+
   - Simplilearn
   - Oct - 2024
 
