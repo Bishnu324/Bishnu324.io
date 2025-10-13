@@ -32,12 +32,12 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 ---
 
 ## 🛠️ Skills
-- **Technical Skills**: 
-  -  <img src="https://img.shields.io/badge/QGIS-589636?style=flat" alt="QGIS"> QGIS
-  -  <img src="https://img.shields.io/badge/Python-(Numpy,Pandas,Matplotlib,sciketlearn,Geopanda)-3776AB?style=flat&logo=python" alt="Python"> Python
-  - <img src="https://img.shields.io/badge/Power%20BI--F2C811?style=flat&logo=powerbi" alt="Power BI"> Power BI
-  - <img src="https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office"> Microsoft      Office (Excel, PowerPoint)
-  -  <img src="https://img.shields.io/badge/Canva-00C4B4?style=flat&logo=canva" alt="Canva"> Canva
+- **Technical Skills**:
+  - <img src="https://img.shields.io/badge/QGIS-Intermediate-589636?style=flat" alt="QGIS"> QGIS
+  - <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python" alt="Python"> Python
+  - <img src="https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office"> Microsoft Office (Excel, PowerPoint)
+  - <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi" alt="Power BI"> Power BI
+  - <img src="https://img.shields.io/badge/Canva-Intermediate-00C4B4?style=flat&logo=canva" alt="Canva"> Canva
     
 - **Soft Skills**: 
   - 🗣️ Communication
