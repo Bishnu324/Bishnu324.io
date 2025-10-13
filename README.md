@@ -8,7 +8,7 @@
   <a href="mailto:pantb813@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
+
 
 ## 🚀 About Me
 I'm an experienced Data Analyst and Geospatial Enthusiast with expertise in transforming complex datasets into actionable insights through Python, Power BI, and GIS tools. My unique blend of data analytics and agriculture/environmental domain knowledge allows me to deliver impactful solutions across diverse projects.
