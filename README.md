@@ -108,3 +108,11 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 - **Mr. Santosh Shrestha**
   - Quality Manager at Agricultural Technology Center, Lalitpur
   - Phone: 9840012016
+
+<div align="center">
+
+### *"Transforming data into decisions, and insights into impact"*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-Bishnu324.github.io-2E9AF7?style=for-the-badge)](https://Bishnu324.github.io/)
+
+</div>    
