@@ -87,19 +87,19 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 
 ## 📝 Publications
 
-1. **Economic production and marketing of Walnut in Darchula District, Nepal**  
-   *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+1. **Economic Perspectives on Walnut Production and Trade in Darchula District of Nepal**  
+   *[https://doi.org/10.9734/ajaar/2025/v25i5622](https://doi.org/10.9734/ajaar/2025/v25i5622)*
 
-2. **Performance of Rice Landraces for Yield and Yield-Related Traits in Rainfed Conditions**  
-   *[https://doi.org/10.1000/abc456](https://doi.org/10.1000/abc456)*
+2. **Evaluation of Rice Landraces for Yield and Related Traits Under Rainfed Conditions in Nepal**  
+   *[https://doi.org/10.59983/s2025030205](https://doi.org/10.59983/s2025030205)*
 
 3. **Nanotechnology in Agriculture: A Review of Innovations in Crop Protection and Food Security**  
-   *[https://doi.org/10.1000/def789](https://doi.org/10.1000/def789)*
+   *[https://doi.org/10.1155/aia/8892001](https://doi.org/10.1155/aia/8892001)*
 
 ---
 
 ## 🌐 Interests
-- Agritechnology, GIS and remote sensing, Data analysis, visualization and designing
+- Agritechnology, GIS and remote sensing, Data analysis, Social media marketing  visualization, and designing
 
 ---
 
