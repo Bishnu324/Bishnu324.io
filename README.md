@@ -68,7 +68,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
 
 ## 🎓 Certificates
 - **QGIS for land management**
-  *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+  *[https://github.com/Bishnu324/Bishnu324.github.io/blob/main/gisf.jpg](https://github.com/Bishnu324/Bishnu324.github.io/blob/main/gisf.jpg)*
 
   - Centre of Excellence in Land Administration and Management, Administrative Training Institute, Government of Karnataka
   - Sept - 2025
