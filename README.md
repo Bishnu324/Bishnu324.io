@@ -73,7 +73,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
   - Centre of Excellence in Land Administration and Management, Administrative Training Institute, Government of Karnataka
   - Sept - 2025
 - **Data Science using Python course**
-  *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+  *[https://github.com/Bishnu324/Bishnu324.github.io/blob/main/python%20.jpg](https://github.com/Bishnu324/Bishnu324.github.io/blob/main/python%20.jpg)*
 
   - Evolve IT-Hub, Lalitpur, Nepal
   - Feb - 2025
