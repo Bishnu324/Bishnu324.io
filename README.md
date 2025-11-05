@@ -78,7 +78,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
   - Evolve IT-Hub, Lalitpur, Nepal
   - Feb - 2025
 - **Online course Power BI for Beginners**
-  *[https://doi.org/10.1000/xyz123](https://doi.org/10.1000/xyz123)*
+  *[https://github.com/Bishnu324/Bishnu324.github.io/blob/main/power%20bi.jpg](https://github.com/Bishnu324/Bishnu324.github.io/blob/main/power%20bi.jpg)*
 
   - Simplilearn
   - Oct - 2024
