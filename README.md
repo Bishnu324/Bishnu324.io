@@ -41,7 +41,7 @@ When I'm not analyzing data, I enjoy exploring agritechnology and designing visu
   - <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python" alt="Python"> Python
   - <img src="https://img.shields.io/badge/Microsoft%20Office-Expert-217346?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office"> Microsoft Office (Excel, PowerPoint)
   - <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi" alt="Power BI"> Power BI
-  - <img src="https://img.shields.io/badge/Canva-Beginner-00C4B4?style=flat&logo=canva" alt="Canva"> Canva
+  - <img src="https://img.shields.io/badge/Inkscape-00C4B4?style=flat&logo=Inkscape" alt="Inkscape"> Inkscape 
     
 - **Soft Skills**: 
   - 🗣️ Communication
